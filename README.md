@@ -25,6 +25,16 @@ Construir aplicações web modernas, evoluir constantemente na área de tecnolog
 
 ---
 
+## Estatísticas GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ram0nAlencar&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram0nAlencar&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
 ## Projetos
 
 Em desenvolvimento de aplicações web, sistemas e projetos voltados para aprendizado prático e evolução contínua na área Full Stack.

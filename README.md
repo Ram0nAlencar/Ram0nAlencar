@@ -27,13 +27,7 @@ Construir aplicações web modernas, evoluir constantemente na área de tecnolog
 
 ## Estatísticas GitHub
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ram0nAlencar&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram0nAlencar&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ram0nAlencar&theme=github_dark)
 
 ## Projetos
 

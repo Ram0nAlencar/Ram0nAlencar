@@ -1,16 +1,39 @@
-## Hi there 👋
+# Ramon Alencar
 
-<!--
-**Ram0nAlencar/Ram0nAlencar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Desenvolvedor Full Stack em construção
 
-Here are some ideas to get you started:
+Estudante de Engenharia de Software focado em desenvolvimento web, construção de aplicações modernas e evolução constante através da tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estudando Django, JavaScript e desenvolvimento Full Stack, enquanto desenvolvo projetos próprios voltados para prática real, organização de sistemas e fortalecimento de portfólio.
+
+---
+
+## Tecnologias em estudo
+
+* Python
+* Django
+* JavaScript
+* HTML
+* CSS
+* Git & GitHub
+
+---
+
+## Objetivo atual
+
+Construir aplicações web modernas, evoluir constantemente na área de tecnologia e desenvolver projetos focados em experiência prática, organização e crescimento profissional.
+
+---
+
+## Projetos
+
+Em desenvolvimento de aplicações web, sistemas e projetos voltados para aprendizado prático e evolução contínua na área Full Stack.
+
+---
+
+## Contato
+
+* LinkedIn: https://linkedin.com/in/SEU-LINK
+* Portfólio: Em construção
+
+---

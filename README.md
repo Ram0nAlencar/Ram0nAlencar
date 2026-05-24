@@ -1,43 +1,58 @@
+<div align="center">
+
 # Ramon Alencar
 
-## Desenvolvedor Full Stack em construção
+### Desenvolvedor Full Stack em construção
 
 Estudante de Engenharia de Software focado em desenvolvimento web, construção de aplicações modernas e evolução constante através da tecnologia.
 
-Atualmente estudando Django, JavaScript e desenvolvimento Full Stack, enquanto desenvolvo projetos próprios voltados para prática real, organização de sistemas e fortalecimento de portfólio.
+Atualmente estudando Django, JavaScript e desenvolvimento Full Stack enquanto desenvolvo projetos próprios voltados para prática real, organização de sistemas e fortalecimento de portfólio.
+
+</div>
 
 ---
 
-## Tecnologias em estudo
+## Linguagens em estudo
 
-* Python
-* Django
-* JavaScript
-* HTML
-* CSS
-* Git & GitHub
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,javascript,html,css,git,github&theme=dark" />
+</p>
 
 ---
 
 ## Objetivo atual
 
-Construir aplicações web modernas, evoluir constantemente na área de tecnologia e desenvolver projetos focados em experiência prática, organização e crescimento profissional.
+Construir aplicações web modernas, evoluir constantemente na área de tecnologia e desenvolver projetos focados em prática real, organização de sistemas e crescimento profissional.
 
 ---
 
 ## Estatísticas GitHub
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ram0nAlencar&theme=github_dark)
+<div align="center">
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ram0nAlencar&theme=github_dark" />
+
+</div>
+
+---
 
 ## Projetos
 
-Em desenvolvimento de aplicações web, sistemas e projetos voltados para aprendizado prático e evolução contínua na área Full Stack.
+Desenvolvendo aplicações web, sistemas e projetos voltados para prática real, evolução técnica e construção de portfólio Full Stack.
 
 ---
 
-## Contato
+## Redes sociais 
 
-* LinkedIn: https://linkedin.com/in/SEU-LINK
-* Portfólio: Em construção
+<p align="center">
 
----
+<a href="https://www.instagram.com/ram0n.alencar/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://www.linkedin.com/feed/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
+</p>

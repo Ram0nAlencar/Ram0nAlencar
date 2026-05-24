@@ -4,11 +4,11 @@
 
 ### Desenvolvedor Full Stack em construção
 
-Estudante de Engenharia de Software focado em desenvolvimento web, construção de aplicações modernas e evolução constante através da tecnologia.
+Estudante de Engenharia de Software focado em desenvolvimento web, backend e construção de sistemas modernos.
 
-Atualmente estudando Django, JavaScript e desenvolvimento Full Stack enquanto desenvolvo projetos próprios voltados para prática real, organização de sistemas e fortalecimento de portfólio.
+Atualmente desenvolvendo projetos próprios voltados para aplicações web, organização de sistemas e transformação de ideias em produtos digitais através da tecnologia.
 
-</div>
+
 
 ---
 
@@ -22,7 +22,7 @@ Atualmente estudando Django, JavaScript e desenvolvimento Full Stack enquanto de
 
 ## Objetivo atual
 
-Construir aplicações web modernas, evoluir constantemente na área de tecnologia e desenvolver projetos focados em prática real, organização de sistemas e crescimento profissional.
+Construir sistemas, aplicações web e produtos digitais que unam tecnologia, estratégia e solução de problemas, enquanto evoluo constantemente no desenvolvimento técnico e na criação de projetos reais.
 
 ---
 
